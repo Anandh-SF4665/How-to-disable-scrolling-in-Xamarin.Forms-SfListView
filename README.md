@@ -1,0 +1,1 @@
+# How-to-disable-scrolling-in-Xamarin.Forms-SfListView
