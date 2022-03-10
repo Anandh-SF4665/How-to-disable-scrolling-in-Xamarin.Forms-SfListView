@@ -1,1 +1,1 @@
-# How-to-disable-scrolling-in-Xamarin.Forms-SfListView
+**[View document in Syncfusion Xamarin Knowledge base](https://www.syncfusion.com/kb/13057/how-to-disable-scrolling-in-xamarin-forms-listview-sflistview)**
